@@ -1,12 +1,12 @@
 # LambdaTest Configuration
 
 # Project and folder configuration
-project_id: "01J5TJP26TJ07R2C1KGK08EJFH"
-folder_id: "01J5TJP27DC7XGRXWKT2FXSZ2G"
+project_id: "01KK7YVSSKHWSZV7HEDR6QNFMK"
+folder_id: "01KK7YW6TQXDHDV7XVB4AC3MWY"
 
 # Test Run configuration
-assignee: 874322
-environment_id: 207445
+assignee: 26052
+environment_id: 223776
 
 # Test URL for automation
 # test_url: "https://demo.lambdatestinternal.com"
