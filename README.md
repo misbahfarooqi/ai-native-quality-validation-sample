@@ -105,6 +105,7 @@ The application includes 46 diverse properties across the United States:
   - Santa Fe, NM - Authentic adobe hacienda
   - Napa Valley, CA - Luxury wine country estate
   - Nashville, TN- Music Arena
+  - Nashville, TN- Music Arena
 - All properties feature unique images, detailed descriptions, and authentic amenities
 
 
