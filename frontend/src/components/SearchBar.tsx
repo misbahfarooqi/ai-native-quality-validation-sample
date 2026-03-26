@@ -28,6 +28,7 @@ const LOCATIONS = [
   { city: 'Ghaziabad', state: 'Uttar Pradesh', country: 'India' },
   { city: 'Delhi', state: 'Delhi', country: 'India' },
   { city: 'Ghaziabad', state: 'Uttar Pradesh', country: 'India' },
+  { city: 'Los Angeles', state: 'California', country: 'United States' },
 ];
 
 const SearchBar = ({ onSearch, initialFilters }: SearchBarProps) => {
